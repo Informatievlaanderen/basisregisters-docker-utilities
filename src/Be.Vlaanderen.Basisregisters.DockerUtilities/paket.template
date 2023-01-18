@@ -1,0 +1,23 @@
+type file
+version 1.0.0
+
+id Be.Vlaanderen.Basisregisters.DockerUtilities
+title Be.Vlaanderen.Basisregisters.DockerUtilities
+
+authors Basisregisters Vlaanderen
+owners Digitaal Vlaanderen <https://vlaanderen.be/digitaal-vlaanderen>
+copyright Copyright (c) Digitaal Vlaanderen
+requireLicenseAcceptance false
+projectUrl https://github.com/Informatievlaanderen/basisregisters-docker-utilities
+iconUrl https://raw.githubusercontent.com/Informatievlaanderen/build-pipeline/master/logo.png
+licenseUrl https://opensource.org/licenses/MIT
+
+description Docker utilities for C#.
+
+dependencies
+  framework: net6.0
+    Ductus.FluentDocker >= LOCKEDVERSION
+
+files
+  bin\Release\net6.0\Be.Vlaanderen.Basisregisters.DockerUtilities.dll => lib\net6.0
+  bin\Release\net6.0\Be.Vlaanderen.Basisregisters.DockerUtilities.pdb => lib\net6.0
