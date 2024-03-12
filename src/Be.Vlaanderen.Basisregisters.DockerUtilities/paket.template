@@ -15,9 +15,9 @@ licenseUrl https://opensource.org/licenses/MIT
 description Docker utilities for C#.
 
 dependencies
-  framework: net6.0
+  framework: netstandard2.1
     Ductus.FluentDocker >= LOCKEDVERSION
 
 files
-  bin\Release\net6.0\Be.Vlaanderen.Basisregisters.DockerUtilities.dll => lib\net6.0
-  bin\Release\net6.0\Be.Vlaanderen.Basisregisters.DockerUtilities.pdb => lib\net6.0
+  Be.Vlaanderen.Basisregisters.DockerUtilities.dll => lib\netstandard2.1
+  Be.Vlaanderen.Basisregisters.DockerUtilities.pdb => lib\netstandard2.1

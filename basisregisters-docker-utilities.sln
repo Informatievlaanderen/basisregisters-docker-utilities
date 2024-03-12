@@ -8,7 +8,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 		paket.dependencies = paket.dependencies
 		README.md = README.md
-		build.fsx = build.fsx
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Be.Vlaanderen.Basisregisters.DockerUtilities", "src\Be.Vlaanderen.Basisregisters.DockerUtilities\Be.Vlaanderen.Basisregisters.DockerUtilities.csproj", "{0ADD8065-F8B6-4DE5-80AD-34DFE8A91B3C}"
