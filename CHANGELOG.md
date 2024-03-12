@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/informatievlaanderen/basisregisters-docker-utilities/compare/v1.0.1...v2.0.0) (2024-03-12)
+
+
+### Features
+
+* move to dotnet 8.0.2 ([26fadfa](https://github.com/informatievlaanderen/basisregisters-docker-utilities/commit/26fadfa4b6d583b90c302fa98d1b6b2aee32a826))
+
+
+### BREAKING CHANGES
+
+* move to dotnet 8.0.2
+
 ## [1.0.1](https://github.com/informatievlaanderen/basisregisters-docker-utilities/compare/v1.0.0...v1.0.1) (2023-01-19)
 
 
