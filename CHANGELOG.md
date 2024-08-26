@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/informatievlaanderen/basisregisters-docker-utilities/compare/v2.0.0...v3.0.0) (2024-08-26)
+
+
+### Features
+
+* support docker compose V2 ([1d93759](https://github.com/informatievlaanderen/basisregisters-docker-utilities/commit/1d937595ed30646e104564cfa912428c8e055a68))
+
+
+### BREAKING CHANGES
+
+* docker compose v2 is now the default
+
 # [2.0.0](https://github.com/informatievlaanderen/basisregisters-docker-utilities/compare/v1.0.1...v2.0.0) (2024-03-12)
 
 
