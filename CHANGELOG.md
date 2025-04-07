@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/informatievlaanderen/basisregisters-docker-utilities/compare/v3.0.0...v4.0.0) (2025-04-07)
+
+
+### Code Refactoring
+
+* use renovate and nuget + update pipeline ([70bcbc4](https://github.com/informatievlaanderen/basisregisters-docker-utilities/commit/70bcbc4b2eefe6ffdc3c07a8c98578cacfe719fd))
+
+
+### BREAKING CHANGES
+
+* update to dotnet 9
+
 # [3.0.0](https://github.com/informatievlaanderen/basisregisters-docker-utilities/compare/v2.0.0...v3.0.0) (2024-08-26)
 
 
