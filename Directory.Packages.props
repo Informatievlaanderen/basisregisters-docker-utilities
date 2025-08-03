@@ -5,7 +5,7 @@
         <CentralPackageVersionOverrideEnabled>false</CentralPackageVersionOverrideEnabled>
     </PropertyGroup>
     <ItemGroup>
-        <PackageVersion Include="Ductus.FluentDocker" Version="2.10.59" />
+        <PackageVersion Include="Ductus.FluentDocker" Version="2.85.0" />
         <PackageVersion Include="SourceLink.Embed.AllSourceFiles" Version="2.8.3" />
         <PackageVersion Include="SourceLink.Copy.PdbFiles" Version="2.8.3" />
     </ItemGroup>
