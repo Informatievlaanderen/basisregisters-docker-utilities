@@ -1,3 +1,10 @@
+## [4.0.1](https://github.com/informatievlaanderen/basisregisters-docker-utilities/compare/v4.0.0...v4.0.1) (2025-11-21)
+
+
+### Bug Fixes
+
+* spacing to trigger build ([e594edb](https://github.com/informatievlaanderen/basisregisters-docker-utilities/commit/e594edbc2b2abbf9b6c2011f53e15b631c1c9d8d))
+
 # [4.0.0](https://github.com/informatievlaanderen/basisregisters-docker-utilities/compare/v3.0.0...v4.0.0) (2025-04-07)
 
 
