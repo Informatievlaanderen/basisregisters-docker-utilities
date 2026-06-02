@@ -1,3 +1,10 @@
+# [4.1.0](https://github.com/informatievlaanderen/basisregisters-docker-utilities/compare/v4.0.1...v4.1.0) (2026-06-02)
+
+
+### Features
+
+* update packages ([609db5e](https://github.com/informatievlaanderen/basisregisters-docker-utilities/commit/609db5ee9f6b2efd8b7162fa30869dec7890b58b))
+
 ## [4.0.1](https://github.com/informatievlaanderen/basisregisters-docker-utilities/compare/v4.0.0...v4.0.1) (2025-11-21)
 
 

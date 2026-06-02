@@ -1,6 +1,6 @@
 {
   "name": "basisregisters-docker-utilities",
-  "version": "4.0.1",
+  "version": "4.1.0",
   "description": "Docker utilities for C#",
   "author": "Basisregisters Vlaanderen",
   "license": "MIT",
